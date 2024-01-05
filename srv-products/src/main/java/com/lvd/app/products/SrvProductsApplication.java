@@ -2,6 +2,7 @@ package com.lvd.app.products;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Configuration;
 
 // @SpringBootApplication: Anotación que sirve para habilitar tres funciones:
 // @EnableAutoConfiguration: habilita el mecanismo de configuración automática de Spring Boot
