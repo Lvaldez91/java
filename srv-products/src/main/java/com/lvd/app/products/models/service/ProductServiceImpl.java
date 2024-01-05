@@ -29,5 +29,4 @@ public class ProductServiceImpl implements IproductService{
 		// TODO Auto-generated method stub
 		return productDao.findById(id);
 	}
-	
 }
