@@ -1,8 +1,8 @@
 server:
-  port: 8080
+  port: 0
 spring:
-#  main:
-#    allow-circular-references: true
+  main:
+    allow-circular-references: false
   jpa: 
     hibernate: 
       ddl-auto: update
