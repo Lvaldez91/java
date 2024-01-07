@@ -1,0 +1,3 @@
+spring.application.name = serv-aplication
+server.port= 8081
+
