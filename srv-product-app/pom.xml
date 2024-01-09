@@ -43,12 +43,11 @@
 			<scope>test</scope>
 		</dependency>
 		
-		<dependency>
-			<groupId>com.microsoft.sqlserver</groupId>
-			<artifactId>mssql-jdbc</artifactId>
-			<scope>runtime</scope>
+		<dependency> 
+		  <groupId>org.hibernate</groupId> 
+		  <artifactId>hibernate-entitymanager</artifactId> 
+		  <version>5.2.3.Final</version> 
 		</dependency>
-		
 	</dependencies>
 
 	<build>
